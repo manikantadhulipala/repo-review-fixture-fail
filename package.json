@@ -1,0 +1,9 @@
+{
+  "name": "repo-review-fixture-fail",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Small fixture repo with a failing test script, for repo-review",
+  "scripts": {
+    "test": "node src/math.test.js"
+  }
+}
